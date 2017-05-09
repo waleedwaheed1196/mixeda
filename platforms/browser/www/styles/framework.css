@@ -1249,21 +1249,21 @@
 }
 
 .button-ghost{
-    height:45px;
-    line-height:45px;
-    text-align:center;
-    font-size:13px;
-    display:inline-block;
-    margin:0px 5px 10px 5px;
-    padding:0px 20px 0px 20px;
-    background-color:transparent;
-    color:#ffffff;
-    line-height:40px;
+	height: 45px;
+	line-height: 45px;
+	text-align: center;
+	font-size: 13px;
+	display: inline-block;
+	margin: 0px 5px 10px 5px;
+	padding: 0px 20px 0px 20px;
+	background-color: transparent;
+	color: #F0FF00;
+	line-height: 40px;
 }
 
 .button-ghost:hover{
-    background-color:#FFFFFF!important;
-    color:#1f1f1f!important;
+	background-color: #FF0004!important;
+	color: #1f1f1f!important;
 }
 
 .button-bold{font-weight:700!important;}
